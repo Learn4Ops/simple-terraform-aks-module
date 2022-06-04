@@ -1,2 +1,0 @@
-# simple-terraform-aks-module
- 
